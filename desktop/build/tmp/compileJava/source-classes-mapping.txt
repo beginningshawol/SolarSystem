@@ -1,0 +1,2 @@
+com/test/solarsystem/desktop/DesktopLauncher.java
+ com.test.solarsystem.desktop.DesktopLauncher
